@@ -1,3 +1,3 @@
 # Concord Observer Openshift
 
-This observer creates test jobs in openshift.
+The openshift observer schedules tasks against resources in an openshift cluster.
